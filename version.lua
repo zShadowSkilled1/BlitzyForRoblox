@@ -1,2 +1,2 @@
-local version = 0
+local version = 1
 return version
